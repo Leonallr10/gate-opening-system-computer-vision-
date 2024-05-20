@@ -39,7 +39,8 @@ By leveraging computer vision technology, this project aims to create a robust a
 - Computer with webcam for face recognition
 
 ### Software Requirements:
--Libraries to install in Command:​ `pip install opencv-python opencv-python-headless numpy face-recognition cvzone firebase-admin pyserial`
+-Libraries to install in Command:​
+ `pip install opencv-python opencv-python-headless numpy face-recognition cvzone firebase-admin pyserial`
 - MicroPython firmware for the IoT device
 - Python interpreter (version 3.x) for computer vision tasks
 - Required Python libraries:
