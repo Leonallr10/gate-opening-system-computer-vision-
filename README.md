@@ -57,8 +57,3 @@ This project integrates IoT (Internet of Things) with computer vision for a smar
 - Ensure all paths to files (such as images, Firebase credentials) are correct in the scripts.
 - Adjust the UART communication parameters in the IoT script if necessary to match with your hardware setup.
 
-## Contributors
-- [Your Name](link-to-github-profile) - Role
-
-## License
-This project is licensed under the [MIT License](LICENSE).
