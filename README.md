@@ -1,4 +1,4 @@
-# Gte opening system 
+# Gate opening system 
 ## Description
 
 This project leverages computer vision technology to enhance the functionality of a smart gate system. By integrating computer vision algorithms, the system can recognize faces and trigger corresponding actions on the gate mechanism controlled by an IoT device.
