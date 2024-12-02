@@ -57,7 +57,7 @@ By leveraging computer vision technology, this project aims to create a robust a
 1. **Clone the Repository:**
    - Clone the repository to your local machine using Git:
      ```sh
-     git clone https://github.com/your-username/your-repository.git
+     git clone [https://github.com/your-username/your-repository.git](https://github.com/Leonallr10/gate-opening-system-computer-vision-.git)
      ```
 
 2. **Navigate to Project Directory:**
